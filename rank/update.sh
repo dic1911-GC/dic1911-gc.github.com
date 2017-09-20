@@ -5,10 +5,10 @@ cp $(date --rfc-3339=date).txt latest.txt
 echo Done!
 sleep 1
 echo Time for some global rankings...
-cd ../global/bin && rm ../latest
+cd ../global/bin && rm -rf ../latest
 ./main.cpp.eXe
 rm -rf 1 10 100 2 3 4 5 6 7 8 9
-cd .. && ln -s $(date --rfc-3339=date) latest
+cd .. && cp -R $(date --rfc-3339=date) latest
 cd ../..
 echo Done!
 read
