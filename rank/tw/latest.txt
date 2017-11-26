@@ -1,47 +1,47 @@
-"Taiwan"@"2017年11月25日02時10分"
+"Taiwan"@"2017年11月26日02時10分"
 
-1. Hazuneko(14)  [Bright God]  Score: 1608273210
-2. *_MIKU_*(53)  [MikuMikuGod]  Score: 1601465487
-3. HORIZON(72)  [Ｓ＋級紅茶]  Score: 1596535302
-4. Xuzuo(104)  [Detonator God]  Score: 1587447513
-5. KYONKO(110)  [LINK PERFECT]  Score: 1586210254
-6. xx_Adam(145)  [第四ノ封印ヲ解放セシ者]  Score: 1572633976
-7. xx_LA-LA(162)  [バーカバーカ！]  Score: 1565743407
-8. S-Kang(167)  [天下一チャレンジャー]  Score: 1564562088
-9. R.KaBaTa(175)  [発狂大魔人]  Score: 1561472805
-10. S_LAN(191)  [α]  Score: 1552302112
-11. GROOVER(192)  [「幼女の世界」]  Score: 1551243640
-12. xx_Clark(200)  [古びた琴の付喪神]  Score: 1545958211
-13. LEO*(236)  [愛知勢]  Score: 1528993761
-14. 387(238)  [「プリスティンビート」]  Score: 1528346152
-15. MOEOU(269)  [麒麟]  Score: 1509536903
-16. L(282)  [ゆっくりしていってね！]  Score: 1499680198
-17. HAPPYEXE(318)  [S級武田信玄]  Score: 1476243313
+1. Hazuneko(15)  [Bright God]  Score: 1608276654
+2. *_MIKU_*(54)  [MikuMikuGod]  Score: 1601465487
+3. HORIZON(65)  [Ｓ＋級紅茶]  Score: 1598511366
+4. Xuzuo(109)  [Detonator God]  Score: 1587447513
+5. KYONKO(114)  [LINK PERFECT]  Score: 1586734488
+6. xx_Adam(147)  [第四ノ封印ヲ解放セシ者]  Score: 1572633976
+7. S-Kang(153)  [天下一チャレンジャー]  Score: 1570448218
+8. xx_LA-LA(164)  [バーカバーカ！]  Score: 1566048998
+9. R.KaBaTa(176)  [発狂大魔人]  Score: 1561472805
+10. S_LAN(181)  [α]  Score: 1558205089
+11. GROOVER(193)  [「幼女の世界」]  Score: 1551243640
+12. xx_Clark(201)  [ココロキング]  Score: 1546045639
+13. 387(234)  [「プリスティンビート」]  Score: 1530062650
+14. LEO*(239)  [愛知勢]  Score: 1528993761
+15. MOEOU(270)  [麒麟]  Score: 1509536903
+16. L(283)  [ゆっくりしていってね！]  Score: 1499680198
+17. HAPPYEXE(320)  [S級武田信玄]  Score: 1476243313
 18. FOX186(384)  [夢に向かって飛び立て！]  Score: 1427786293
-19. xx_DiC(438)  [I love "Blue Destiny Blue"]  Score: 1379759662
-20. B.RS(457)  [キング・オブ・ナイツ]  Score: 1366361290
-21. AZUSA@.@(480)  [ネトゲ廃人大王]  Score: 1343306099
-22. 3345678(602)  [メイド先生]  Score: 1249243481
-23. NGGFN(617)  [レンかわいいよレン]  Score: 1237661455
+19. xx_DiC(401)  [I love "Blue Destiny Blue"]  Score: 1413390738
+20. B.RS(459)  [キング・オブ・ナイツ]  Score: 1366426428
+21. AZUSA@.@(480)  [ネトゲ廃人大王]  Score: 1344293535
+22. 3345678(603)  [メイド先生]  Score: 1249243481
+23. NGGFN(617)  [レンかわいいよレン]  Score: 1237708722
 24. LDT_JACK(620)  [STARLIGHT GOD]  Score: 1234594004
 25. Kirby#64(623)  [青龍]  Score: 1233363474
 26. Flaxer#(634)  [無名の王]  Score: 1228164980
-27. PLATINUM(657)  [OCT, 2017 TOP RANKER]  Score: 1210779090
-28. RedBunny(661)  [幸福理論神]  Score: 1208391785
+27. PLATINUM(658)  [OCT, 2017 TOP RANKER]  Score: 1210779090
+28. RedBunny(662)  [幸福理論神]  Score: 1208421268
 29. Xa<>_xx(664)  [戦車女王]  Score: 1206923443
-30. SkyFox(692)  [LINK MASTER]  Score: 1193102682
-31. O_____O(711)  [I LOVE バブルン]  Score: 1185042991
-32. BIGBANG(719)  [世界の傍観者]  Score: 1182257336
-33. LDT-Cus(796)  [LINK MASTER]  Score: 1145319126
-34. +_RM13_(816)  [EXTREME]  Score: 1134817346
-35. DBB_HTC(819)  [I love "東方不死鳥"]  Score: 1132166694
-36. HALKEN(838)  [I love 燦]  Score: 1123007515
-37. G8.inc(839)  [練習中]  Score: 1122860376
-38. AXue(849)  [GROOVER]  Score: 1117849127
+30. SkyFox(680)  [LINK MASTER]  Score: 1198746011
+31. BIGBANG(703)  [世界の傍観者]  Score: 1188809494
+32. O_____O(708)  [わわわわーにん！]  Score: 1187018899
+33. LDT-Cus(798)  [LINK MASTER]  Score: 1145319126
+34. +_RM13_(806)  [EXTREME]  Score: 1140145860
+35. DBB_HTC(820)  [I love "東方不死鳥"]  Score: 1132222140
+36. HALKEN(840)  [I love 燦]  Score: 1123007515
+37. G8.inc(841)  [練習中]  Score: 1122860376
+38. AXue(850)  [GROOVER]  Score: 1117849127
 39. SRH(852)  [I love "議論 -HEAT UP-"]  Score: 1116780787
 40. Kevin(879)  [I love "蒼空に舞え、墨染の桜"]  Score: 1101658178
-41. SAKI(925)  [神霊「夢想封印 瞬」]  Score: 1071197135
-42. Akatsuki(945)  [第四ノ封印ヲ解放セシ者]  Score: 1060586170
-43. COASTER(956)  [初代スコアタ騎士]  Score: 1053550733
-44. moroko@@(967)  [メイド秘技「殺人ドール」]  Score: 1047664033
-45. Yorda(979)  [狂乱を、味わえ]  Score: 1042949362
+41. SAKI(926)  [神霊「夢想封印 瞬」]  Score: 1071197135
+42. Akatsuki(930)  [第四ノ封印ヲ解放セシ者]  Score: 1070230757
+43. COASTER(957)  [初代スコアタ騎士]  Score: 1053550733
+44. moroko@@(968)  [メイド秘技「殺人ドール」]  Score: 1047664033
+45. Yorda(969)  [狂乱を、味わえ]  Score: 1046937782
