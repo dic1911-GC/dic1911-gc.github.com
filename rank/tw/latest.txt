@@ -1,47 +1,47 @@
-"Taiwan"@"2017年12月15日02時10分"
+"Taiwan"@"2017年12月16日02時10分"
 
 1. Hazuneko(13)  [現実逃避神]  Score: 1617352452
-2. HORIZON(65)  [Ｓ＋級紅茶]  Score: 1607572280
-3. *_MIKU_*(76)  [MikuMikuGod]  Score: 1604957793
-4. Xuzuo(77)  [Detonator God]  Score: 1604845977
-5. KYONKO(120)  [LINK PERFECT]  Score: 1590632832
-6. S-Kang(159)  [天下一チャレンジャー]  Score: 1573586222
-7. xx_Adam(161)  [第四ノ封印ヲ解放セシ者]  Score: 1572633976
-8. xx_LA-LA(169)  [バーカバーカ！]  Score: 1569193012
-9. R.KaBaTa(189)  [発狂大魔人]  Score: 1561472805
+2. *_MIKU_*(49)  [MikuMikuGod]  Score: 1610955554
+3. Xuzuo(63)  [Detonator God]  Score: 1608888218
+4. HORIZON(69)  [Ｓ＋級紅茶]  Score: 1607572280
+5. KYONKO(112)  [LINK PERFECT]  Score: 1596373735
+6. xx_LA-LA(158)  [無理]  Score: 1575245167
+7. S-Kang(160)  [天下一チャレンジャー]  Score: 1573586222
+8. xx_Adam(164)  [第四ノ封印ヲ解放セシ者]  Score: 1572633976
+9. R.KaBaTa(190)  [発狂大魔人]  Score: 1561472805
 10. S_LAN(191)  [α]  Score: 1561191943
-11. GROOVER(207)  [「幼女の世界」]  Score: 1551243640
-12. xx_Clark(212)  [夢幻のパーカッショニスト]  Score: 1549509389
-13. LEO*(226)  [滋賀勢]  Score: 1540875947
-14. 387(245)  [「プリスティンビート」]  Score: 1530062650
-15. MOEOU(251)  [風神]  Score: 1525338042
-16. xx_DiC(290)  [I love "Blue Destiny Blue"]  Score: 1503045293
+11. xx_Clark(201)  [メリクリユメちゃん！]  Score: 1555488343
+12. GROOVER(209)  [「幼女の世界」]  Score: 1551243640
+13. LEO*(228)  [滋賀勢]  Score: 1540875947
+14. xx_DiC(233)  [I love "Blue Destiny Blue"]  Score: 1538889057
+15. 387(248)  [「プリスティンビート」]  Score: 1530062650
+16. MOEOU(252)  [風神]  Score: 1525467379
 17. L(297)  [ゆっくりしていってね！]  Score: 1499680198
-18. HAPPYEXE(322)  [S級武田信玄]  Score: 1482930148
-19. FOX186(390)  [Don't stop funky music!]  Score: 1431833378
-20. B.RS(456)  [メイド王]  Score: 1373356273
-21. AZUSA@.@(479)  [ネトゲ廃人大王]  Score: 1352996664
-22. NGGFN(610)  [レンかわいいよレン]  Score: 1250646204
-23. 3345678(612)  [メイド先生]  Score: 1249243481
-24. Kirby#64(627)  [青龍]  Score: 1237187684
-25. LDT_JACK(630)  [STARLIGHT GOD]  Score: 1235470616
-26. PLATINUM(631)  [十人の話を同時に聞くことが出来る女神]  Score: 1234103358
-27. RedBunny(637)  [幸福理論神]  Score: 1230046036
-28. BIGBANG(641)  [世界の傍観者]  Score: 1228676581
-29. Flaxer#(643)  [無名の王]  Score: 1228164980
-30. Xa<>_xx(668)  [戦車女王]  Score: 1210284445
-31. O_____O(682)  [エース]  Score: 1204145883
-32. SkyFox(684)  [□△×○大王]  Score: 1203310132
-33. +_RM13_(788)  [EXTREME]  Score: 1158846595
-34. DBB_HTC(810)  [I love "東方不死鳥"]  Score: 1146456913
-35. ODGC3EX!(811)  [団子を食べる程に強くなる女王]  Score: 1146022889
-36. LDT-Cus(814)  [LINK MASTER]  Score: 1145319126
-37. HALKEN(851)  [I love 燦]  Score: 1126094254
-38. G8.inc(857)  [練習中]  Score: 1122860376
-39. Kevin(865)  [I love "蒼空に舞え、墨染の桜"]  Score: 1119477663
+18. HAPPYEXE(323)  [S級武田信玄]  Score: 1482930148
+19. FOX186(391)  [Don't stop funky music!]  Score: 1431833378
+20. B.RS(457)  [メイド王]  Score: 1373356273
+21. AZUSA@.@(478)  [団子を食べる程に強くなる女王]  Score: 1354871880
+22. NGGFN(599)  [レンかわいいよレン]  Score: 1256614184
+23. 3345678(613)  [メイド先生]  Score: 1249243481
+24. RedBunny(622)  [幸福理論神]  Score: 1240972387
+25. PLATINUM(629)  [十人の話を同時に聞くことが出来る女神]  Score: 1238047212
+26. Kirby#64(630)  [青龍]  Score: 1237187684
+27. LDT_JACK(634)  [STARLIGHT GOD]  Score: 1235470616
+28. BIGBANG(636)  [世界の傍観者]  Score: 1232643231
+29. Flaxer#(646)  [無名の王]  Score: 1228164980
+30. Xa<>_xx(670)  [戦車女王]  Score: 1210284445
+31. O_____O(684)  [エース]  Score: 1204145883
+32. SkyFox(687)  [□△×○大王]  Score: 1203310132
+33. +_RM13_(790)  [EXTREME]  Score: 1158846595
+34. DBB_HTC(799)  [I love "東方不死鳥"]  Score: 1152674985
+35. ODGC3EX!(812)  [団子を食べる程に強くなる女王]  Score: 1147113363
+36. LDT-Cus(815)  [LINK MASTER]  Score: 1145319126
+37. HALKEN(841)  [I love 燦]  Score: 1131667709
+38. G8.inc(858)  [練習中]  Score: 1122860376
+39. Kevin(866)  [I love "蒼空に舞え、墨染の桜"]  Score: 1119477663
 40. AXue(867)  [GROOVER]  Score: 1117849127
-41. SRH(868)  [I love "議論 -HEAT UP-"]  Score: 1116780787
-42. Akatsuki(916)  [第四ノ封印ヲ解放セシ者]  Score: 1087335898
+41. SRH(869)  [I love "議論 -HEAT UP-"]  Score: 1116780787
+42. Akatsuki(917)  [第四ノ封印ヲ解放セシ者]  Score: 1087335898
 43. SAKI(934)  [神霊「夢想封印 瞬」]  Score: 1074888093
-44. Yorda(955)  [狂乱を、味わえ]  Score: 1060153601
-45. COASTER(973)  [初代スコアタ騎士]  Score: 1053550733
+44. Yorda(957)  [狂乱を、味わえ]  Score: 1060153601
+45. COASTER(975)  [初代スコアタ騎士]  Score: 1053550733
