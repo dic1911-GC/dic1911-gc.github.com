@@ -11,7 +11,7 @@ rm -rf 1 10 100 2 3 4 5 6 7 8 9
 cd .. && cp -R $(date --rfc-3339=date) latest
 cd ../..
 echo Done!
-read
+#read
 git add .
 git commit -m "update rank"
 
